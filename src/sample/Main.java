@@ -35,10 +35,6 @@ public class Main extends Application {
         datas1.add(new XYChart.Data(Enter.x2, Enter.y2));
         datas1.add(new XYChart.Data(Enter.x3, Enter.y3));
         datas1.add(new XYChart.Data(Enter.x4, Enter.y4));
-        datas1.add(new XYChart.Data(Enter.x1, Enter.y1));
-        datas1.add(new XYChart.Data(Enter.x2, Enter.y2));
-        datas1.add(new XYChart.Data(Enter.x3, Enter.y3));
-        datas1.add(new XYChart.Data(Enter.x4, Enter.y4));
 
         datas2.add(new XYChart.Data(Enter.xp, Enter.yp));
 
